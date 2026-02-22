@@ -3,35 +3,25 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+I'm Adrian Teng-Amnuay, a systems engineer focused on AI automation. I build agent-driven workflows, developer tools, and production infrastructure that put AI to work on real problems — not just demos and prototypes.
 
-![Astro Paper](public/astropaper-og.jpg)
+## What I Do
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+My work sits at the intersection of software engineering and AI operations. I design and build systems where AI agents handle meaningful work: automating workflows, orchestrating multi-step processes, and integrating into existing infrastructure.
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+**Focus areas:**
 
-## Features
+- **Agentic systems** — designing AI agents that operate reliably in production environments
+- **Workflow automation** — building pipelines that connect AI capabilities to real business processes
+- **Developer tooling** — creating tools that make AI-assisted development practical and repeatable
+- **Systems infrastructure** — deploying and operating AI workloads at the platform level
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+## What This Site Covers
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+This blog is where I write about the engineering side of AI automation. Expect build logs, architectural breakdowns, framework comparisons, and lessons learned from putting these systems into production.
 
-and so much more.
+I write for engineers and technical leaders who want to move beyond prompt engineering into building real AI-powered infrastructure.
 
-## Show your support
+## Get in Touch
 
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
-
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
-
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
-
-Kyay zuu! 🙏🏼
+If you're working on similar problems or interested in collaboration, reach out via [email](mailto:pumpadrian@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/atengamn/).

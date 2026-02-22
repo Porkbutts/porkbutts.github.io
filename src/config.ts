@@ -1,10 +1,10 @@
 export const SITE = {
   website: "https://porkbutts.github.io/",
-  author: "Porkbutts",
+  author: "Adrian Teng-Amnuay",
   profile: "https://github.com/Porkbutts",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "Astro Blog",
-  ogImage: "astropaper-og.jpg",
+  desc: "Systems-level AI automation practitioner. Building agent-driven workflows, tools, and infrastructure.",
+  title: "Adrian Teng-Amnuay",
+  ogImage: "og-default.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
   postPerPage: 4,
@@ -19,5 +19,5 @@ export const SITE = {
   dynamicOgImage: true,
   dir: "ltr", // "rtl" | "auto"
   lang: "en", // html lang code. Set this empty and default will be "en"
-  timezone: "Asia/Bangkok", // Default global timezone (IANA format) https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+  timezone: "America/Los_Angeles", // Default global timezone (IANA format) https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 } as const;
