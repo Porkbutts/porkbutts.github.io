@@ -34,6 +34,15 @@ Built with Astro 5, Tailwind CSS 4, and TypeScript. Deployed to GitHub Pages at 
 - `npm run format` — Format with Prettier
 - `npm run lint` — Lint with ESLint
 
+## Content Consistency
+
+Before writing or updating any blog post, review `src/pages/about.md` to ensure the post aligns with the site's stated vision, positioning, and goals. Specifically:
+
+- The post should reinforce Adrian's positioning as a builder of production-grade agentic AI systems, not a commentator or tutorial writer.
+- Content should match the site's stated purpose: build logs, architectural breakdowns, design patterns, and honest assessments of what works and what doesn't.
+- The post should serve the target audience described in the about page: founders, engineers, product builders, and operators who need AI automation built well.
+- Avoid content that contradicts or dilutes the about page's framing (e.g., beginner tutorials, hype pieces, purely theoretical posts with no build context).
+
 ## Blog Post Format
 
 Blog posts live in `src/data/blog/` as `.md` files. Frontmatter schema:
