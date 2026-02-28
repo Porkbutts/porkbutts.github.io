@@ -3,18 +3,18 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-I'm Adrian Teng-Amnuay, a software engineer with 10+ years of experience in production infrastructure, cloud systems, and security. Service meshes across hundreds of Kubernetes clusters, zero-trust auth systems, container platforms at scale, AI-powered developer tools. The common thread has always been taking complex operational problems and building reliable systems around them.
+I'm Adrian Teng-Amnuay. I've been a software engineer for over ten years, mostly working on securing and productionizing distributed systems, container platforms, and cloud infrastructure. Honestly, it was starting to feel like a grind. Then agentic AI came along and suddenly it feels like I have a renewed passion for software engineering.
 
-These days I'm deep into agentic AI. I'm building tools, prototypes, and production-grade systems that use AI agents to solve real problems. Not just prompting, but the orchestration, failure handling, state management, and integration work that makes agents useful in practice.
+I'm spending most of my free time experimenting with AI-assisted development right now. It just fits how I've always thought about building software: get something working, put it in front of people, and iterate from there. The less time between "I have an idea" and "here's a thing you can use," the better. AI collapses that gap in a way nothing else has.
+
+I've gone through phases already. The agent roleplay orchestrator hype train. Cranking out personal apps. Now I'm building Claude into a personal assistant that can search my email, manage my tasks, and handle real errands. Each experiment teaches me something new about where this stuff actually works and where it falls apart.
 
 ## What this site is
 
-This is where I share what I'm building and what I'm learning along the way. I work primarily with Claude Code, and this site is where I document the experiments: what I built, how it works, and how you can do it too. I'm building up a portfolio of agentic software and documenting the engineering decisions behind it.
+This is where I share those experiments. What I'm building, what I'm learning, what surprised me. The goal is to document the real experience of working with agentic AI, not the polished version.
 
-The goal is straightforward: demonstrate that I can build these systems well, and connect with people who need them built.
+## Why I care
 
-## Work with me
+I think agentic AI is going to follow a path similar to the internet. There are early adopters now, but there are plenty of skeptics even still. Over the next decade or two, businesses and individuals will gradually adopt agentic workflows, and there will be a long tail of people who need help understanding and transitioning to these tools. I want to be early and I want to be deep in it, so that when that wave comes, I'm ready to help.
 
-If you're a founder, team, or business looking to build AI-powered automation, I'd like to hear from you. I bring infrastructure-grade engineering to agentic systems, and I'm interested in projects where reliability and real-world integration matter more than demos.
-
-Reach out via [email](mailto:pumpadrian@gmail.com) or [LinkedIn](https://www.linkedin.com/in/atengamn/).
+If any of this resonates, I'd love to connect. Reach out via [email](mailto:pumpadrian@gmail.com) or [LinkedIn](https://www.linkedin.com/in/atengamn/).
