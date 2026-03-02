@@ -51,9 +51,7 @@ The pattern is the same in both cases. I have documents scattered across email a
 
 ## The MCP setup
 
-This all works because of MCP (Model Context Protocol), which lets Claude connect to external tools and data sources. I built custom MCP servers for both [Gmail](https://github.com/Porkbutts/gmail-mcp-server) and [Google Drive](https://github.com/Porkbutts/gdrive-mcp-server) because I eventually want Claude to send emails and manage files on my behalf, and the default connectors don't support that. But for just reading and searching, the standard MCP connectors that ship with Claude would work fine.
-
-I'll probably write up how I built these servers in a future post.
+This all works because of MCP (Model Context Protocol), which lets Claude connect to external tools and data sources. I built a custom [GSuite MCP server](https://github.com/Porkbutts/gsuite-mcp-server) that gives Claude access to Gmail, Google Drive, Sheets, Docs, and Calendar through a single server with shared OAuth. I built it because I eventually want Claude to send emails and manage files on my behalf, and the default connectors don't support that. But for just reading and searching, the standard MCP connectors that ship with Claude would work fine.
 
 ## On security
 
