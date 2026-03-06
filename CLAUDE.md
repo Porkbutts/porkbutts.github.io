@@ -37,10 +37,10 @@ Built with Astro 5, Tailwind CSS 4, and TypeScript. Deployed to GitHub Pages at 
 ## Content Consistency
 Before writing or updating any blog post, review `src/pages/about.md` to ensure the post aligns with the site's stated vision, positioning, and goals. Specifically:
 
-- The post should reinforce Adrian's positioning as a builder of production-grade agentic AI systems, not a commentator or tutorial writer.
-- Content should match the site's stated purpose: build logs, architectural breakdowns, design patterns, and honest assessments of what works and what doesn't.
-- The post should serve the target audience described in the about page: founders, engineers, product builders, and operators who need AI automation built well.
-- Avoid content that contradicts or dilutes the about page's framing (e.g., beginner tutorials, hype pieces, purely theoretical posts with no build context).
+- The post should reinforce Adrian's positioning as someone who actually builds with agentic AI, not just comments on it.
+- Content can take different forms: build logs, workflow guides, architectural breakdowns, design patterns, or honest assessments of what works and what doesn't. All are fine as long as they come from real experience.
+- The post should serve the target audience described in the about page: engineers, builders, and people who want to use AI effectively.
+- Avoid content that contradicts or dilutes the about page's framing (e.g., hype pieces, purely theoretical posts with no practical grounding).
 
 ## Blog Post Format
 
