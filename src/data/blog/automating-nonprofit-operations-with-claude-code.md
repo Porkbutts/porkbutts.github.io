@@ -3,7 +3,7 @@ author: Adrian Teng-Amnuay
 pubDatetime: 2026-03-05T12:00:00Z
 title: "Automating a nonprofit's operations with Claude Code skills and MCP servers"
 featured: false
-draft: true
+draft: false
 tags:
   - agentic-ai
   - claude
