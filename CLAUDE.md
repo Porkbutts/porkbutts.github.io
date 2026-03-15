@@ -74,3 +74,9 @@ When Adrian provides a transcript, apply these rules automatically before drafti
 
 When writing or editing any blog post, read and follow the voice and style rules in `WRITING-INSTRUCTIONS.md`.
 
+**Do not draft a full blog post from a transcript or topic summary alone.** The output will sound like AI regardless of style instructions. Instead, follow this process:
+
+1. **Interview first.** Before writing anything, ask Adrian 4-6 questions about the experience using `AskUserQuestion`: what he was actually trying to do, what surprised him, what was annoying, what the moment of insight was, what he'd want a reader to take away. Use his real answers as the raw material.
+2. **Draft from answers.** Write the post grounded in what he said, not in a summary of events. The specific, messy, only-he-would-know details are what make it sound human.
+3. **Review together.** Share the draft for feedback and iterate.
+
