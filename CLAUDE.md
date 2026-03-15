@@ -58,6 +58,11 @@ tags:                              # defaults to ["others"]
 description: "Short description"   # required
 ```
 
+### Publishing rules
+
+- **Never use `draft: true`.** Draft posts are not navigable in dev mode, making them useless for previewing. Always set `draft: false` (or omit it).
+- **Use `pubDatetime` to control publish timing.** Posts with a future `pubDatetime` won't appear on the site until that time. To publish immediately, set it to the current time. To schedule a post, set it to the desired future time. Ask Adrian which he prefers when creating a new post.
+
 ## Transcript Anonymization
 
 Blog posts frequently include Claude conversation transcripts to demonstrate agentic workflows. Before incorporating any transcript into a post, anonymize it:

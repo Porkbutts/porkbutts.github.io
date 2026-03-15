@@ -1,6 +1,6 @@
 ---
 author: Adrian Teng-Amnuay
-pubDatetime: 2026-03-15T12:00:00Z
+pubDatetime: 2026-03-15T07:21:00Z
 title: "An agent that writes its own tools"
 featured: false
 draft: false
